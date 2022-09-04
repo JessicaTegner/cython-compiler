@@ -12,7 +12,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="cython_compiler",
-    version="1.0.1",
+    version="1.0.2",
     description="Cythonize your project, securing it's source, while still be able to test with python and bundle with PyInstaller",
     long_description=readme,
     long_description_content_type="text/markdown",

@@ -12,12 +12,12 @@ with open("README.md", "r") as f:
 
 setup(
     name="cython_compiler",
-    version="1.0.0",
+    version="1.0.1",
     description="Cythonize your project, securing it's source, while still be able to test with python and bundle with PyInstaller",
     long_description=readme,
     long_description_content_type="text/markdown",
-    author="NicklasMCHD",
-    url="https://github.com/NicklasMCHD/cython-compiler",
+    author="JessicaTegner",
+    url="https://github.com/JessicaTegner/cython-compiler",
     license="GNU LGPLv3",
     keywords=KEYWORDS,
     zip_safe=False,

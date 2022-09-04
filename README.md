@@ -6,7 +6,7 @@ A simple script that cythonizes your python project, handles import statements, 
 
 or the manual way:
 
-* git clone https://github.com/NicklasMCHD/cython-compiler.git
+* git clone https://github.com/JessicaTegner/cython-compiler.git
 * cd cython-compiler
 * python setup.py install
 
